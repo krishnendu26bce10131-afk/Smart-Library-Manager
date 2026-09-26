@@ -45,10 +45,6 @@ Testing is done manually through the menu. Try these steps:
 5. **Return a book** – Choose `5`, enter the same ID, then choose `2` to see the status change back to Available.
 6. **Exit and reload** – Choose `6`, run `python main.py` again, and choose `2` to confirm the changes were saved in `books.txt`.
 
-## Screenshots
 
-(Add screenshots here if you want, for example a picture of the main menu.)
-
----
 
 
